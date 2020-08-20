@@ -24,6 +24,26 @@ export default createSchema({
           type: "string",
         },
         {
+          title: "Company",
+          name: "company",
+          type: "string",
+        },
+        {
+          title: "Occupation",
+          name: "occupation",
+          type: "string",
+        },
+        {
+          title: "Email",
+          name: "email",
+          type: "string",
+        },
+        {
+          title: "Mobile",
+          name: "mobile",
+          type: "string",
+        },
+        {
           title: "Profile photo",
           name: "profile_photo",
           type: "image",

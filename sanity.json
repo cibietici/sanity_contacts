@@ -1,7 +1,8 @@
 {
   "root": true,
   "project": {
-    "name": "contacts"
+    "name": "contacts",
+    "basePath": "/"
   },
   "api": {
     "projectId": "esvvpid9",
